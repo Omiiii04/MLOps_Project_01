@@ -166,3 +166,5 @@ artifact/
 credentials.md
 notebook/mongoDB_demo.ipynb
 notebook/rf_model.pkl
+
+.vscode/
